@@ -11,7 +11,7 @@ text_tags = model.analyze(text)
 
 */
 
-//example trainer
+//example trainer using anago
 
 import argparse
 import os
